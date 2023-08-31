@@ -1,3 +1,4 @@
+# implemented using array / list
 import random
 
 
